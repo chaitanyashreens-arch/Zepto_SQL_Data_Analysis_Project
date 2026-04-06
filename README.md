@@ -1,4 +1,4 @@
-##Zepto E-commerce SQL Data Analyst Portfolio Project 
+Zepto E-commerce SQL Data Analyst Portfolio Project 
 Domain: Retail / E-Commerce Analytics 
 Tools Used: SQL (PostgreSQL), pgAdmin
 1.	Introduction 
